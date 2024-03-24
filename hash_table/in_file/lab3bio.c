@@ -1,6 +1,6 @@
 #include "lab3bio.h"
 //
-// Функции для Open Adress Table
+// Функции для Open Address Table
 //
 int oat_hash1(char* in, int size)
 {
