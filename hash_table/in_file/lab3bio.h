@@ -53,7 +53,7 @@ int chfull_table(Table* table);
 void save_table_to_file(Table* table, FILE* file);
 void set_table_default(Table* table);
 
-//   Open Adress Table
+//   Open Address Table
 int  oat_hash1(char* in, int size);
 int  oat_hash2(char* in, int size);
 int  oat_double_hashing(char* in, int* i, int size);
